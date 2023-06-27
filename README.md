@@ -9,3 +9,7 @@ We can find best music composers, Writers and best music by solving the sql quer
  
  ## Schema Overview
  ![image](https://github.com/Pranavdixitofficial/Music_Store_datanalysis/assets/107533502/bbd0c502-acff-4abe-ac30-0c77d508fbdd)
+![MS Power BI](https://github.com/Pranavdixitofficial/Music_Store_datanalysis/assets/107533502/64a7a7d2-7864-49e3-98bf-a4b5b299f478)
+
+## Power BI dashboard
+![E commerce Sale](https://github.com/Pranavdixitofficial/Music_Store_datanalysis/assets/107533502/44d74989-ff3a-405d-be44-513f9aa460a9)
